@@ -10,3 +10,5 @@ supports 'ubuntu'
 
 issues_url 'https://github.com/jldugger/base-cookbook/issues'
 source_url 'https://github.com/jldugger/base-cookbook'
+
+depends 'chef-client'
